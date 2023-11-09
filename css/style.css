@@ -27,9 +27,13 @@ header h1 {
 }
 
 header .logo {
-  width: 400px;
+  display: flex;
+  width: 70%;
+  max-width: 1700px;
+  margin: auto;
+  justify-content: space-between;
   align-items: center;
-  padding left: 40px;
+  flex-wrap: nowrap;
 }
 
 header {
