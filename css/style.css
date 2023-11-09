@@ -13,6 +13,7 @@
 img {
   width: 100%;
   height: auto;
+  
 }
 
 /*Desde acá empiezan menú de navegación*/
@@ -28,6 +29,7 @@ header h1 {
 header .logo {
   width: 400px;
   align-items: center;
+  padding left:30px;
 }
 
 header {
